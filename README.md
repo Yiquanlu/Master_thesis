@@ -4,7 +4,6 @@ Single-cell epigenomics reveals mechanisms of human cortical development
 https://www.nature.com/articles/s41586-021-03209-8
 Mid-gestation, forebrain
 PCW 17, 18, 20, 21
-
 NeMo Application, Data: https://assets.nemoarchive.org/dat-dgarbc3
 
 Chromatin and gene-regulatory dynamics of the developing human cerebral cortex at single-cell resolution
