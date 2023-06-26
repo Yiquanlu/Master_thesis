@@ -20,3 +20,5 @@ A human cell atlas of fetal chromatin accessibility
 https://doi.org/10.1126/science.aba7612
 89 to 125 days (12, 13, 14, 15, 16, 17, 18)
 Data: https://descartes.brotmanbaty.org/bbi/human-chromatin-during-development/
+
+To read large size tsv.gz format file atac_counts.tsv.gz from Alexandro et al. 2021 we wrote a script to convert it to rds format file.
