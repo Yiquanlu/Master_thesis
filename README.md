@@ -1,4 +1,4 @@
-# scATAC-analysis-for-human-brain-development-integrated-data
+# Integrated scATAC-seq of human fetal brain 
 
 Single-cell epigenomics reveals mechanisms of human cortical development
 https://www.nature.com/articles/s41586-021-03209-8
